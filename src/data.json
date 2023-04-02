@@ -1,0 +1,769 @@
+{
+    "data" : [
+        {
+            "Emp_id" : "01",
+            "name" : "Ajayan",
+            "age" : "25",
+            "email" : "ajayan@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "02",
+            "name" : "Ajayan",
+            "age" : "25",
+            "email" : "ajayan@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "03",
+            "name" : "Akilan",
+            "age" : "29",
+            "email" : "akilan@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "04",
+            "name" : "Amrish",
+            "age" : "55",
+            "email" : "amrish@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "05",
+            "name" : "Aakaash",
+            "age" : "26",
+            "email" : "aakaash@gmail.com",
+            "dept" : "Marketing",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "06",
+            "name" : "Aadav",
+            "age" : "23",
+            "email" : "aadav@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "07",
+            "name" : "Ajay",
+            "age" : "22",
+            "email" : "ajay@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "08",
+            "name" : "Amar",
+            "age" : "25",
+            "email" : "amar@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "09",
+            "name" : "Amin",
+            "age" : "27",
+            "email" : "amin@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "10",
+            "name" : "Aniruddh",
+            "age" : "24",
+            "email" : "aniruddh@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "11",
+            "name" : "Babu",
+            "age" : "25",
+            "email" : "Babu@gmail.com",
+            "dept" : "Marketing",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "12",
+            "name" : "Balan",
+            "age" : "25",
+            "email" : "balan@gmail.com",
+            "dept" : "sales",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "13",
+            "name" : "Banu",
+            "age" : "22",
+            "email" : "banu@gmail.com",
+            "dept" : "Human Resources",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "14",
+            "name" : "Charan",
+            "age" : "25",
+            "email" : "charan@gmail.com",
+            "dept" : "Office Support",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "15",
+            "name" : "Cheran",
+            "age" : "26",
+            "email" : "cheran@gmail.com",
+            "dept" : "Marketing",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "16",
+            "name" : "Cheran",
+            "age" : "26",
+            "email" : "cheran@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "17",
+            "name" : "Cheran",
+            "age" : "26",
+            "email" : "cheran@gmail.com",
+            "dept" : "Marketing",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "18",
+            "name" : "Chellan",
+            "age" : "28",
+            "email" : "chellan@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "19",
+            "name" : "Denis",
+            "age" : "21",
+            "email" : "denis@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "20",
+            "name" : "Dharu",
+            "age" : "22",
+            "email" : "dharu@gmail.com",
+            "dept" : "Marketing",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "21",
+            "name" : "Dhanu",
+            "age" : "25",
+            "email" : "dhanu@gmail.com",
+            "dept" : "Marketing",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "22",
+            "name" : "Elan",
+            "age" : "44",
+            "email" : "elan@gmail.com",
+            "dept" : "Marketing",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "23",
+            "name" : "Eswar",
+            "age" : "23",
+            "email" : "eswar@gmail.com",
+            "dept" : "Administration",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "24",
+            "name" : "Ezhil",
+            "age" : "28",
+            "email" : "ezhil@gmail.com",
+            "dept" : "Administration",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "25",
+            "name" : "Faruq",
+            "age" : "33",
+            "email" : "faruq@gmail.com",
+            "dept" : "Administration",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "26",
+            "name" : "Fozan",
+            "age" : "31",
+            "email" : "fozan@gmail.com",
+            "dept" : "Administration",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "27",
+            "name" : "Fenil",
+            "age" : "35",
+            "email" : "fenil@gmail.com",
+            "dept" : "Administration",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "28",
+            "name" : "Guru",
+            "age" : "38",
+            "email" : "guru@gmail.com",
+            "dept" : "Distribution",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "29",
+            "name" : "Gokul",
+            "age" : "34",
+            "email" : "gokul@gmail.com",
+            "dept" : "Distribution",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "30",
+            "name" : "Geetha",
+            "age" : "38",
+            "email" : "geetha@gmail.com",
+            "dept" : "Distribution",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "31",
+            "name" : "Haris",
+            "age" : "38",
+            "email" : "haris@gmail.com",
+            "dept" : "Distribution",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "32",
+            "name" : "Harsh",
+            "age" : "67",
+            "email" : "harish@gmail.com",
+            "dept" : "Distribution",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "33",
+            "name" : "Hamir",
+            "age" : "44",
+            "email" : "hamir@gmail.com",
+            "dept" : "Distribution",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "34",
+            "name" : "Ishan",
+            "age" : "24",
+            "email" : "ishan@gmail.com",
+            "dept" : "Accounting",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "35",
+            "name" : "Imaran",
+            "age" : "24",
+            "email" : "ishan@gmail.com",
+            "dept" : "Accounting",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "36",
+            "name" : "Ilango",
+            "age" : "26",
+            "email" : "ilango@gmail.com",
+            "dept" : "Accounting",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "37",
+            "name" : "Jack",
+            "age" : "29",
+            "email" : "jack@gmail.com",
+            "dept" : "Accounting",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "38",
+            "name" : "Jaya",
+            "age" : "20",
+            "email" : "jaya@gmail.com",
+            "dept" : "Accounting",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "39",
+            "name" : "Jagan",
+            "age" : "55",
+            "email" : "jagan@gmail.com",
+            "dept" : "Accounting",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "40",
+            "name" : "Kavi",
+            "age" : "24",
+            "email" : "kavi@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "41",
+            "name" : "Kabir",
+            "age" : "24",
+            "email" : "kabir@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "42",
+            "name" : "Kadal",
+            "age" : "24",
+            "email" : "kadal@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "43",
+            "name" : "Laddu",
+            "age" : "29",
+            "email" : "laddu@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "44",
+            "name" : "Laxmi",
+            "age" : "24",
+            "email" : "laxmi@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "45",
+            "name" : "Linga",
+            "age" : "24",
+            "email" : "linga@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "46",
+            "name" : "Mano",
+            "age" : "24",
+            "email" : "mano@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "47",
+            "name" : "Madan",
+            "age" : "24",
+            "email" : "madan@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "48",
+            "name" : "Madhu",
+            "age" : "24",
+            "email" : "madhu@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "49",
+            "name" : "Nandhu",
+            "age" : "41",
+            "email" : "nandhu@gmail.com",
+            "dept" : "Human Resources",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "50",
+            "name" : "Navya",
+            "age" : "41",
+            "email" : "navya@gmail.com",
+            "dept" : "Human Resources",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "51",
+            "name" : "Nihas",
+            "age" : "31",
+            "email" : "nihas@gmail.com",
+            "dept" : "Human Resources",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "52",
+            "name" : "Omesh",
+            "age" : "30",
+            "email" : "omesh@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "53",
+            "name" : "Omkar",
+            "age" : "30",
+            "email" : "omkar@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "54",
+            "name" : "Omkumar",
+            "age" : "30",
+            "email" : "omkumar@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "55",
+            "name" : "Padma",
+            "age" : "30",
+            "email" : "padma@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "56",
+            "name" : "Puli",
+            "age" : "30",
+            "email" : "puli@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "57",
+            "name" : "Priya",
+            "age" : "21",
+            "email" : "priya@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "58",
+            "name" : "Quish",
+            "age" : "30",
+            "email" : "quish@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "59",
+            "name" : "Qamar",
+            "age" : "30",
+            "email" : "qamar@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "60",
+            "name" : "Raj",
+            "age" : "24",
+            "email" : "raj@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "61",
+            "name" : "Raji",
+            "age" : "30",
+            "email" : "raji@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "62",
+            "name" : "Rajiv",
+            "age" : "30",
+            "email" : "rajiv@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "63",
+            "name" : "Sam",
+            "age" : "22",
+            "email" : "sam@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "64",
+            "name" : "Siv",
+            "age" : "30",
+            "email" : "siv@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "65",
+            "name" : "Sai",
+            "age" : "22",
+            "email" : "sai@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "66",
+            "name" : "Taj",
+            "age" : "19",
+            "email" : "taj@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "67",
+            "name" : "Thi",
+            "age" : "26",
+            "email" : "thi@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "68",
+            "name" : "Tho",
+            "age" : "25",
+            "email" : "tho@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "69",
+            "name" : "Uday",
+            "age" : "30",
+            "email" : "uday@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "70",
+            "name" : "Umar",
+            "age" : "30",
+            "email" : "umar@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "71",
+            "name" : "Udesh",
+            "age" : "30",
+            "email" : "udesh@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "72",
+            "name" : "Vam",
+            "age" : "22",
+            "email" : "vam@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "73",
+            "name" : "Vir",
+            "age" : "30",
+            "email" : "vir@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "74",
+            "name" : "Vama",
+            "age" : "30",
+            "email" : "vama@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "75",
+            "name" : "Wasantha",
+            "age" : "30",
+            "email" : "wasantha@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "76",
+            "name" : "Winesh",
+            "age" : "30",
+            "email" : "winesh@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "77",
+            "name" : "Waran",
+            "age" : "30",
+            "email" : "waran@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "78",
+            "name" : "Xavier",
+            "age" : "30",
+            "email" : "xavier@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "79",
+            "name" : "Xhiva",
+            "age" : "30",
+            "email" : "xhiva@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "80",
+            "name" : "Yogi",
+            "age" : "30",
+            "email" : "yogi@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "81",
+            "name" : "Yadav",
+            "age" : "30",
+            "email" : "yadav@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "82",
+            "name" : "Yasir",
+            "age" : "30",
+            "email" : "yasir@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "83",
+            "name" : "Zain",
+            "age" : "30",
+            "email" : "zain@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "84",
+            "name" : "Zafar",
+            "age" : "30",
+            "email" : "zafar@gmail.com",
+            "dept" : "IT",
+            "status" : "InActive",
+            "Phone_Number" : "1123532044"
+        },
+        {
+            "Emp_id" : "85",
+            "name" : "Zayan",
+            "age" : "30",
+            "email" : "zayan@gmail.com",
+            "dept" : "IT",
+            "status" : "Active",
+            "Phone_Number" : "1123532044"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+.suggestions{
+    position: relative;
+    margin-top: 1px;
+    border: 2px solid gray;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    max-height: 600px;
+    min-height: auto;
+    overflow-y: auto;
+    border-radius: 10px;
+}
+.right{
+    position: absolute;
+    right: 0;
+}
+.large{
+    font-size: 35px;
+}
+.empdata:hover{
+    cursor: pointer;
+    background-color: lightgray;
+}
+
+.small{
+    font-size: 24px;
+    color: mediumslateblue;
+}
+
+span{
+    padding: 4px;
+}
+
+@media only screen and (max-width : 500px){
+    .large{
+        font-size: 20px;
+    }
+    .small{
+        font-size: 16px;
+    }
+}
